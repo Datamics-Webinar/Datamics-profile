@@ -1,4 +1,4 @@
-# Hello! from Datamics <img src="https://github.com/Datamics-Webinar/Datamics-Webinar/blob/cc9b4180c37c88c59b8506db19be00ed7229b5bb/wave.gif" width="50px">
+# Hello! from Datamics <img src="wave.gif" width="50px">
 
 [![Header](https://github.com/Datamics-Webinar/Datamics-profile/blob/9505bfa7d2dd86a4979941a50d460c4179b38c1d/datamics-logo.png)](https://datamics.com/)
 
