@@ -1,6 +1,6 @@
 # Hello! from Datamics <img src="https://github.com/Datamics-Webinar/Datamics-Webinar/blob/cc9b4180c37c88c59b8506db19be00ed7229b5bb/wave.gif" width="50px">
 
-[![Header](https://github.com/Datamics-Webinar/Datamics-Webinar/blob/447767b94e437247e614b386c3dec86b82377d9b/datamics-logo.png)](https://datamics.com/)
+[![Header](https://github.com/Datamics-Webinar/Datamics-profile/blob/21154fde38478db4d8918af3f4ad660cfdc33840/wave.gif)](https://datamics.com/)
 
 <!--
 **saumyagoyal95/saumyagoyal95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
