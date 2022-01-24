@@ -15,7 +15,7 @@
 
 We offer online courses on data science topics. This includes development and data analysis with Python and R. In addition, we offer courses on SQL, application training and many other topics in the field of data science. Just browse through our site. You are sure to find something suitable! For example, you can go directly to our online courses - https://datamics.com/courses/programmieren-lernen/
 
-THE BEST TOOLS & CONCEPTS - FROM US FOR YOU.<br>
+### THE BEST TOOLS & CONCEPTS - FROM US FOR YOU.<br>
 We offer you comprehensive consulting services for machine intelligence in the areas of big data, data science and data engineering. Our mission is to solve complex business problems through planning, developing, analyzing and predicting business improvement.
 
 ![](https://img.shields.io/badge/Famous_For_Course-Python_For_Data_Science-informational??style=for-the-badge&color=red)
