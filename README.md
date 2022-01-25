@@ -20,16 +20,12 @@ We offer you comprehensive consulting services for machine intelligence in the a
 ### Stats
 
 <a href="https://github.com/Datamics-Webinar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datamics-Webinar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-<a href="https://github.com/Datamics-Webinar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Datamics-Webinar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Datamics's GitHub Stats" />
 </a>
 
-
-</a>    
-
+<a href="https://github.com/Datamics-Webinar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datamics-Webinar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 ### Where you can find us?
 
